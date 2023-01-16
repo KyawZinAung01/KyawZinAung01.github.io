@@ -1,0 +1,6 @@
+git status =>red
+git add .
+git status  =>green
+git commit -m "message"
+git push -u origin master/main
+
